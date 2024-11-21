@@ -156,20 +156,125 @@ ul {
 }
 
 @keyframes typing {
-  0% {
-      content: 'Designer';
+  2.5% {
+      content: 'D|';
+  }
+  5% {
+      content: 'De|';
+  }
+  7.5% {
+      content: 'Dev|';
+  }
+  10% {
+      content: 'Deve|';
+  }
+  12.5% {
+      content: 'Devel|';
+  }
+  12.5% {
+    content: 'Devel|';
+  }
+  15% {
+    content: 'Develo|';
+  }
+  17.5% {
+    content: 'Develop|';
+  }
+  20% {
+    content: 'Develope|';
+  }
+  22.5% {
+    content: 'Developer|';
   }
   25% {
-      content: 'Developer';
+    content: 'Develope|';
+  }
+  27.5% {
+    content: 'Develop|';
+  }
+  30% {
+    content: 'Develo|';
+  }
+  32.5% {
+    content: 'Devel|';
+  }
+  35% {
+    content: 'Deve|';
+  }
+  37.5% {
+    content: 'Dev|';
+  }
+  40% {
+    content: 'De|';
+  }
+  42.5% {
+    content: 'D|';
+  }
+  45% {
+    content: '|';
+  }
+  47.5% {
+    content: 'U|';
   }
   50% {
-      content: 'Freelancer';
+    content: 'UI|';
+  }
+  52.5% {
+    content: 'UI/|';
+  }
+  55% {
+    content: 'UI/U|';
+  }
+  57.5% {
+    content: 'UI/UX|';
+  }
+  60% {
+    content: 'UI/U|';
+  }
+  62.5% {
+    content: 'UI/|';
+  }
+  67.5% {
+    content: 'UI|';
+  }
+  70% {
+    content: 'U|';
+  }
+  72.5% {
+    content: '|';
   }
   75% {
-      content: 'UI/UX';
+    content: 'D|';
+  }
+  77.5% {
+    content: 'De|';
+  }
+  80% {
+    content: 'Des|';
+  }
+  82.5% {
+    content: 'Desi|';
+  }
+  85% {
+    content: 'Desig|';
+  }
+  87.5% {
+    content: 'Design|';
+  }
+  90% {
+    content: 'Designe|';
+  }
+  92.5% {
+    content: 'Designer|';
+  }
+  95% {
+    content: 'Designe|';
+  }
+  97.5% {
+    content: 'Design|';
   }
   100% {
-      content: 'Photographer';
+    content: 'Desig|';
   }
 }
 
